@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [Microservice Blog](https://github.com/jacobdolph/microservice-blog) & [Gigit](https://github.com/jacobdolph/Gigit)
 - 🌱 I’m currently learning Microservice Architecture
-- 📫 Checkout my Portfolio: [Jacob Dolph](jacobdolph.com)
+- 📫 Checkout my Portfolio: [Jacob Dolph](https://www.jacobdolph.com/)
 
 
 <!--

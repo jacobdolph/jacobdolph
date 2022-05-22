@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on [Microservice Blog](https://github.com/jacobdolph/microservice-blog) & [Gigit](https://github.com/jacobdolph/Gigit)
 - 🌱 I’m currently learning Microservice Architecture
 - 📫 Checkout my Portfolio: [Jacob Dolph](https://www.jacobdolph.com/)
-- ⚡ Fun fact: I like to take algorithm challenges and turn them into apps checkout my take on [FizzBuzz](https://jacobdolph.github.io/fizzbuzz/)
+- ⚡ Fun fact: I like to take algorithm challenges and turn them into apps, checkout my take on [FizzBuzz](https://jacobdolph.github.io/fizzbuzz/)
 
 <!--
 **jacobdolph/jacobdolph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
